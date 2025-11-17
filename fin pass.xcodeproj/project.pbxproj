@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3D7A61AF2EC1E24900D26159 /* Password app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Password app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D3FA1082EC7978800F61515 /* fin pass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "fin pass.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3D7A61B12EC1E24900D26159 /* Password app */ = {
+		3D3FA10A2EC7978800F61515 /* fin pass */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Password app";
+			path = "fin pass";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3D7A61AC2EC1E24900D26159 /* Frameworks */ = {
+		3D3FA1052EC7978800F61515 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3D7A61A62EC1E24900D26159 = {
+		3D3FA0FF2EC7978800F61515 = {
 			isa = PBXGroup;
 			children = (
-				3D7A61B12EC1E24900D26159 /* Password app */,
-				3D7A61B02EC1E24900D26159 /* Products */,
+				3D3FA10A2EC7978800F61515 /* fin pass */,
+				3D3FA1092EC7978800F61515 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3D7A61B02EC1E24900D26159 /* Products */ = {
+		3D3FA1092EC7978800F61515 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3D7A61AF2EC1E24900D26159 /* Password app.app */,
+				3D3FA1082EC7978800F61515 /* fin pass.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3D7A61AE2EC1E24900D26159 /* Password app */ = {
+		3D3FA1072EC7978800F61515 /* fin pass */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D7A61BA2EC1E24A00D26159 /* Build configuration list for PBXNativeTarget "Password app" */;
+			buildConfigurationList = 3D3FA1132EC7978800F61515 /* Build configuration list for PBXNativeTarget "fin pass" */;
 			buildPhases = (
-				3D7A61AB2EC1E24900D26159 /* Sources */,
-				3D7A61AC2EC1E24900D26159 /* Frameworks */,
-				3D7A61AD2EC1E24900D26159 /* Resources */,
+				3D3FA1042EC7978800F61515 /* Sources */,
+				3D3FA1052EC7978800F61515 /* Frameworks */,
+				3D3FA1062EC7978800F61515 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3D7A61B12EC1E24900D26159 /* Password app */,
+				3D3FA10A2EC7978800F61515 /* fin pass */,
 			);
-			name = "Password app";
+			name = "fin pass";
 			packageProductDependencies = (
 			);
-			productName = "Password app";
-			productReference = 3D7A61AF2EC1E24900D26159 /* Password app.app */;
+			productName = "fin pass";
+			productReference = 3D3FA1082EC7978800F61515 /* fin pass.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3D7A61A72EC1E24900D26159 /* Project object */ = {
+		3D3FA1002EC7978800F61515 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					3D7A61AE2EC1E24900D26159 = {
+					3D3FA1072EC7978800F61515 = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = 3D7A61AA2EC1E24900D26159 /* Build configuration list for PBXProject "Password app" */;
+			buildConfigurationList = 3D3FA1032EC7978800F61515 /* Build configuration list for PBXProject "fin pass" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3D7A61A62EC1E24900D26159;
+			mainGroup = 3D3FA0FF2EC7978800F61515;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3D7A61B02EC1E24900D26159 /* Products */;
+			productRefGroup = 3D3FA1092EC7978800F61515 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3D7A61AE2EC1E24900D26159 /* Password app */,
+				3D3FA1072EC7978800F61515 /* fin pass */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3D7A61AD2EC1E24900D26159 /* Resources */ = {
+		3D3FA1062EC7978800F61515 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3D7A61AB2EC1E24900D26159 /* Sources */ = {
+		3D3FA1042EC7978800F61515 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3D7A61B82EC1E24A00D26159 /* Debug */ = {
+		3D3FA1112EC7978800F61515 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		3D7A61B92EC1E24A00D26159 /* Release */ = {
+		3D3FA1122EC7978800F61515 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		3D7A61BB2EC1E24A00D26159 /* Debug */ = {
+		3D3FA1142EC7978800F61515 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -256,17 +256,19 @@
 				DEVELOPMENT_TEAM = H285L8298F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "This application uses a Face ID recognition in order to protect your privacy. no data transferring, just privacy.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.serenasquitieri.Password-app";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.serenasquitieri.fin-pass";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -278,7 +280,7 @@
 			};
 			name = Debug;
 		};
-		3D7A61BC2EC1E24A00D26159 /* Release */ = {
+		3D3FA1152EC7978800F61515 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -288,17 +290,19 @@
 				DEVELOPMENT_TEAM = H285L8298F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "This application uses a Face ID recognition in order to protect your privacy. no data transferring, just privacy.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.serenasquitieri.Password-app";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.serenasquitieri.fin-pass";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -313,25 +317,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3D7A61AA2EC1E24900D26159 /* Build configuration list for PBXProject "Password app" */ = {
+		3D3FA1032EC7978800F61515 /* Build configuration list for PBXProject "fin pass" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3D7A61B82EC1E24A00D26159 /* Debug */,
-				3D7A61B92EC1E24A00D26159 /* Release */,
+				3D3FA1112EC7978800F61515 /* Debug */,
+				3D3FA1122EC7978800F61515 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D7A61BA2EC1E24A00D26159 /* Build configuration list for PBXNativeTarget "Password app" */ = {
+		3D3FA1132EC7978800F61515 /* Build configuration list for PBXNativeTarget "fin pass" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3D7A61BB2EC1E24A00D26159 /* Debug */,
-				3D7A61BC2EC1E24A00D26159 /* Release */,
+				3D3FA1142EC7978800F61515 /* Debug */,
+				3D3FA1152EC7978800F61515 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3D7A61A72EC1E24900D26159 /* Project object */;
+	rootObject = 3D3FA1002EC7978800F61515 /* Project object */;
 }
